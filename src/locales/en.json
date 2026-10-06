@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to the game? Learn the full loop: fly to distant areas, grab Eggs, hatch Animals, earn Cash, and upgrade your Wings without wasting your first resources."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Working Codes",
+          "description": "Grab every free reward before it expires. See where +1 Wings For Eggs codes come from, how to redeem them, and how to spot expired or fake ones."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Eggs & Cash Farming",
+          "description": "Compare Egg tiers and farm routes so you always know which area to visit next and how to turn hatched Animals into a steady stream of Cash."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in +1 Wings For Eggs."
+          "title": "Wings, Upgrades & Rebirth",
+          "description": "Plan your spending: which Wing upgrades unlock farther areas, and when a Rebirth reset pays off with a permanent Cash multiplier."
         }
       ]
     },
@@ -66,73 +66,67 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Working Codes",
+        "Best Wings",
+        "Rebirth Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Your first session explained, from earning Wings and reaching your first Eggs to hatching Animals and earning Cash.",
+          "href": "/guide/wings-for-eggs-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Working Codes",
+          "description": "All live +1 Wings For Eggs codes with free rewards and a step-by-step redemption walkthrough.",
+          "href": "/codes/wings-for-eggs-codes"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Eggs Explained",
+          "description": "Every Egg type, the area it spawns in, and which Animals each one can hatch.",
+          "href": "/mechanics/wings-for-eggs-eggs"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Best Wings Tier List",
+          "description": "S to C ranking of every Wing by flight power, area access, and upgrade value.",
+          "href": "/items/wings-for-eggs-best-wings"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Animals & Pets",
+          "description": "Rarity tiers, Cash per second, and which hatches are worth keeping for your Base.",
+          "href": "/mechanics/wings-for-eggs-pets"
+        },
+        {
+          "badge": "New",
+          "title": "Rebirth Guide",
+          "description": "What resets, what carries over, and how the permanent Cash multiplier speeds up every run.",
+          "href": "/mechanics/wings-for-eggs-rebirth"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Upgrades Guide",
+          "description": "The best upgrade order for Flight Speed, Wing Stamina, Animal income, and Base capacity.",
+          "href": "/mechanics/wings-for-eggs-upgrades"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Moon Quest Walkthrough",
+          "description": "Prerequisites, timing windows, and the full route to finish the Moon Quest and claim its rewards.",
+          "href": "/quests/wings-for-eggs-moon"
         }
       ]
     },
     "aboutGame": {
       "title": "What is +1 Wings For Eggs?",
       "paragraphs": [
-        "+1 Wings For Eggs is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "+1 Wings For Eggs is a free-to-play flight and egg-collection tycoon on Roblox from developer Crazay Art. You take to the sky, fly to distant nests and areas, steal Eggs, and bring them back to your Base to hatch Animals that keep earning Cash even while you are offline.",
+        "Progress runs on one simple loop: spend Cash on stronger Wings, Flight Speed, and Base capacity so you can reach farther areas with rarer Eggs and better Animals, then Rebirth for a permanent Cash multiplier. Our wiki maps every system with guides, tier lists, and step-by-step walkthroughs."
       ],
       "stats": [
         {
@@ -145,158 +139,260 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Simulation / Tycoon"
+        },
+        {
+          "label": "Released",
+          "value": "September 2026"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "30M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Players Online",
+          "value": "8.1K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore +1 Wings For Eggs Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the +1 Wings For Eggs Wiki",
+      "description": "Everything you need to progress in +1 Wings For Eggs: working codes, a full beginner walkthrough, Egg and Animal breakdowns, Wing tier lists, area unlock order, Rebirth planning, and upgrade priorities.",
       "modules": [
         {
           "order": 1,
-          "name": "+1 Wings For Eggs Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/1-wings-for-eggs-codes",
-          "displayType": "code-box",
+          "name": "+1 Wings For Eggs Codes",
+          "description": "Every working +1 Wings For Eggs code, the free rewards behind them, and a clear redemption walkthrough, plus how to tell a fresh code from an expired one.",
+          "href": "/codes/wings-for-eggs-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Codes",
+              "detail": "New codes appear around updates, milestones, and community events, so check back after every patch."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Redeem",
+              "detail": "Open the in-game codes menu, paste the code exactly as shared, and confirm the reward pop-up."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Rewards",
+              "detail": "Expect free Cash, free Eggs, spins, and cosmetic Wings, with permanent cosmetics worth grabbing first."
+            },
+            {
+              "label": "Expired",
+              "detail": "Codes are time-limited and one use per account, so redeem a live one the moment you find it."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/1-wings-for-eggs-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "+1 Wings For Eggs Beginner Guide",
+          "description": "A first-session walkthrough for +1 Wings For Eggs: where Wings come from, how to reach your first Eggs, when to hatch Animals, and how to avoid stalling out early.",
+          "href": "/guide/wings-for-eggs-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Learn where Wings come from: events, milestones, streaks, and rare drops."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Earn a starter buffer of Wings before spending anything on cosmetics."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Find the exchange and note the current Egg cost before you commit."
+            },
+            {
+              "label": "4",
+              "detail": "Pick one cheap target Egg instead of scattering your resources."
+            },
+            {
+              "label": "5",
+              "detail": "Convert, hatch, and check whether the Animal pays back your investment."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvest the return into faster Wing income and repeat the loop."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/1-wings-for-eggs-tier-list",
-          "displayType": "tier-grid",
+          "name": "+1 Wings For Eggs Eggs",
+          "description": "Every Egg type in +1 Wings For Eggs, the areas they spawn in, their rarity, and what each one can hatch, so you always know which Egg to chase next.",
+          "href": "/mechanics/wings-for-eggs-eggs",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Starter",
+              "detail": "Cheap, common Eggs that teach the hatch loop with minimal risk."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Quest",
+              "detail": "Quest-locked Eggs with reliable mid-tier Animals as the reward."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Event",
+              "detail": "Limited Eggs that vanish when the event ends, so grab them fast."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Seasonal",
+              "detail": "Rotating Eggs with long-term collection value and shifting pools."
+            },
+            {
+              "label": "Premium",
+              "detail": "High-cost Eggs with the best Animals, best saved for a steady income."
+            },
+            {
+              "label": "Secret",
+              "detail": "Hidden Eggs with top-tier Animals and the lowest hatch odds."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/1-wings-for-eggs-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "+1 Wings For Eggs Animals",
+          "description": "A full +1 Wings For Eggs Animals breakdown covering rarity tiers, Cash generation, and which hatches are worth keeping, selling, or feeding into Rebirth.",
+          "href": "/mechanics/wings-for-eggs-pets",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Common",
+              "detail": "Easy hatches that fill your Base and cover early Cash needs."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Uncommon",
+              "detail": "Slightly better earners that bridge the gap to mid-game Animals."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Rare",
+              "detail": "Solid Cash producers and the workhorse of most trade offers."
+            },
+            {
+              "label": "Epic",
+              "detail": "Where serious value starts, with strong offline Cash generation."
+            },
+            {
+              "label": "Legendary",
+              "detail": "Top earners that keep their value across updates and Rebirths."
+            },
+            {
+              "label": "Secret",
+              "detail": "Fixed-supply Animals from limited Eggs, the rarest of the rare."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/1-wings-for-eggs-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "+1 Wings For Eggs Wings Tier List",
+          "description": "All +1 Wings For Eggs Wings ranked from S to C by flight power, area access, and upgrade value, so you know which pair to chase next.",
+          "href": "/mechanics/wings-for-eggs-wings",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Top-tier Wings with the best flight and the farthest area access."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Strong, reliable Wings that carry most of the mid-game grind."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Solid budget Wings that still beat anything you start with."
+            },
+            {
+              "label": "C",
+              "detail": "Early Wings that are cheap to unlock but quickly outgrown."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/1-wings-for-eggs-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "+1 Wings For Eggs Areas",
+          "description": "The unlock order for every +1 Wings For Eggs area, the Eggs and Animals found in each, and the Wings and upgrades you need before flying farther.",
+          "href": "/guide/wings-for-eggs-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Home Base",
+              "detail": "Your starting nest, where Eggs are hatched and Cash is banked."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Nearby",
+              "detail": "Close spawns with common Eggs and the easiest Animals to farm."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Mid Map",
+              "detail": "Contested areas with better Eggs and a steady stream of Cash."
+            },
+            {
+              "label": "Far Nests",
+              "detail": "Distant nests that need stronger Wings to reach in time."
+            },
+            {
+              "label": "Event",
+              "detail": "Time-limited zones that open during updates and seasonal events."
+            },
+            {
+              "label": "Moon",
+              "detail": "A late-game destination tied to the Moon Quest and rare rewards."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "+1 Wings For Eggs Rebirth",
+          "description": "How +1 Wings For Eggs Rebirth works: what resets, what carries over, and how the permanent Cash multiplier makes every later run faster.",
+          "href": "/mechanics/wings-for-eggs-rebirth",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Stockpile enough Cash and Wings to hit the Rebirth threshold."
+            },
+            {
+              "label": "2",
+              "detail": "Check the gate and confirm the required level or Rebirth count first."
+            },
+            {
+              "label": "3",
+              "detail": "Trigger Rebirth and watch your current run reset."
+            },
+            {
+              "label": "4",
+              "detail": "Claim the permanent Cash multiplier that carries into every future run."
+            },
+            {
+              "label": "5",
+              "detail": "Rebuild along the new optimal route, which is far faster than before."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "+1 Wings For Eggs Upgrades",
+          "description": "The best +1 Wings For Eggs upgrade order covering Flight Speed, Wing Stamina, Animal income, and Base capacity, so every coin goes where it counts.",
+          "href": "/mechanics/wings-for-eggs-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Speed",
+              "detail": "Flight Speed upgrades cut travel time and raise the Eggs you collect per run."
+            },
+            {
+              "label": "Stamina",
+              "detail": "Wing Stamina lets you stay airborne long enough to reach distant nests."
+            },
+            {
+              "label": "Income",
+              "detail": "Animal income upgrades boost the Cash your Animals earn while offline."
+            },
+            {
+              "label": "Capacity",
+              "detail": "Base capacity lets you hold more Animals and Eggs before selling."
             }
           ]
         }
@@ -304,27 +400,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about +1 Wings For Eggs.",
+      "description": "Quick answers to the most common +1 Wings For Eggs questions about Eggs, Animals, Wings, Cash, codes, and Rebirth.",
       "items": [
         {
           "question": "What is +1 Wings For Eggs?",
-          "answer": "+1 Wings For Eggs is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "+1 Wings For Eggs is a free-to-play flight and egg-collection tycoon on Roblox from developer Crazay Art. You fly to distant nests, steal Eggs, hatch Animals, earn Cash, upgrade your Wings, and Rebirth to reach farther areas."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I get more Eggs in +1 Wings For Eggs?",
+          "answer": "Fly to farther areas, grab the Eggs that spawn there, and carry them back to your Base before your Wing Stamina runs out. Stronger Wings and Flight Speed upgrades let you reach the rarer Eggs that appear in distant nests."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which Animals should I keep in +1 Wings For Eggs?",
+          "answer": "Keep the highest-rarity Animals you can hatch, because they earn the most Cash and keep paying while you are offline. Sell or hatch duplicates to fund better Eggs and stronger Wing upgrades."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do codes work in +1 Wings For Eggs?",
+          "answer": "Codes are short, time-limited strings that grant free rewards such as Cash, Eggs, spins, or cosmetic Wings. Redeem them in the in-game codes menu as soon as they drop, since most expire quickly and only work once per account."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When should I Rebirth in +1 Wings For Eggs?",
+          "answer": "Rebirth when your Cash income has slowed and the permanent multiplier will clearly beat what you would earn by staying. Rebirth resets your current run but grants a lasting Cash boost that makes every future run faster."
         }
       ]
     },
