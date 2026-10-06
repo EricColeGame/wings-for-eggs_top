@@ -1,0 +1,14 @@
+{
+  "name": "wings-for-eggs-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "wings-for-eggs.top",
+      "custom_domain": true
+    }
+  ]
+}
