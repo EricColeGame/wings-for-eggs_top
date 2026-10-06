@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "quests": "Quests",
+    "controls": "Controls",
+    "updates": "Updates"
   },
   "home": {
     "meta": {
@@ -431,7 +438,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "+1 Wings For Eggs Guides",
+    "overviewDescription": "Start with the +1 Wings For Eggs beginner guide, then learn the fastest routes, tips and tricks, and how to go from noob to pro."
+  },
+  "codes": {
+    "overviewTitle": "+1 Wings For Eggs Codes",
+    "overviewDescription": "All active and expired +1 Wings For Eggs codes in one place, with clear steps on how to redeem each one for free eggs and rewards."
+  },
+  "items": {
+    "overviewTitle": "+1 Wings For Eggs Items & Wings",
+    "overviewDescription": "Compare every +1 Wings For Eggs wing, pet and limited drop, including the best wings, rarest pets, and how to unlock Phoenix and Anubis wings."
+  },
+  "mechanics": {
+    "overviewTitle": "+1 Wings For Eggs Mechanics",
+    "overviewDescription": "Understand the core +1 Wings For Eggs systems: eggs, wings, pets, upgrades, rebirth, steal eggs, secrets and eternal progression."
+  },
+  "quests": {
+    "overviewTitle": "+1 Wings For Eggs Quests",
+    "overviewDescription": "Walkthroughs for every +1 Wings For Eggs quest, from the Anubis and limited wings quests to free eggs, max level and the Moon area."
+  },
+  "controls": {
+    "overviewTitle": "+1 Wings For Eggs Controls",
+    "overviewDescription": "The full +1 Wings For Eggs controls list for PC, mobile and console, so you can move, jump, interact and steal eggs without guessing."
+  },
+  "updates": {
+    "overviewTitle": "+1 Wings For Eggs Updates",
+    "overviewDescription": "The latest +1 Wings For Eggs update notes, new content, secret updates and the 2026 roadmap, all kept current in one feed."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -462,10 +496,10 @@
     "officialYoutube": "Gameplay Videos",
     "vvBuilder": "Eggs & Wings Guides",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Eggs Guide",
-    "bossGuides": "Wings Guide",
-    "buildGuide": "Upgrades Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "itemsGuide": "Items & Eggs",
+    "mechanicsGuide": "Game Mechanics",
+    "updatesGuide": "Updates"
   }
 }
