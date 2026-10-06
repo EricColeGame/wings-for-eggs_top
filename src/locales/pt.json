@@ -1,1 +1,505 @@
-{}
+{
+  "site": {
+    "name": "+1 Wings For Eggs Wiki",
+    "shortName": "+1 Wings For Eggs",
+    "tagline": "Guias de Ovos, Asas, Animais, Áreas e Renascimento",
+    "description": "Sua wiki definitiva de +1 Wings For Eggs! Voe até ninhos distantes, roube Ovos, choque Animais, ganhe Dinheiro, melhore suas Asas e renasça para alcançar áreas mais distantes.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "codes": "Códigos",
+    "items": "Itens",
+    "mechanics": "Mecânicas",
+    "quests": "Missões",
+    "controls": "Controles",
+    "updates": "Atualizações"
+  },
+  "home": {
+    "meta": {
+      "title": "+1 Wings For Eggs Wiki - Ovos, Asas e Renascimento",
+      "description": "Domine +1 Wings For Eggs com guias sobre ovos, asas, áreas, melhorias, renascimentos, controles, códigos, animais e as formas mais rápidas de ganhar Dinheiro."
+    },
+    "hero": {
+      "eyebrow": "Tycoon de voo e coleção de ovos",
+      "title": "+1 Wings For Eggs Wiki",
+      "description": "Voe até ninhos distantes, roube Ovos, choque Animais, ganhe Dinheiro mesmo offline, melhore suas Asas e Velocidade, amplie sua Base e renasça para alcançar áreas mais distantes.",
+      "stats": [
+        "30M+ Visitas totais",
+        "13 Ovos disponíveis",
+        "8.1K+ Jogadores online",
+        "Atualizações diárias"
+      ],
+      "primaryCta": "Guia para iniciantes",
+      "secondaryCta": "Códigos ativos",
+      "tertiaryCta": "Jogar no Roblox",
+      "videoLabel": "Conteúdo oficial"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada em +1 Wings For Eggs",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Novo no jogo? Aprenda o ciclo completo: voe para áreas distantes, pegue Ovos, choque Animais, ganhe Dinheiro e melhore suas Asas sem desperdiçar seus primeiros recursos."
+        },
+        {
+          "number": "2",
+          "title": "Códigos ativos",
+          "description": "Pegue todas as recompensas grátis antes que expirem. Veja de onde vêm os códigos de +1 Wings For Eggs, como resgatá-los e como identificar os expirados ou falsos."
+        },
+        {
+          "number": "3",
+          "title": "Melhores Ovos e farm de Dinheiro",
+          "description": "Compare os níveis dos Ovos e as rotas de farm para saber sempre qual área visitar em seguida e como transformar os Animais chocados em um fluxo constante de Dinheiro."
+        },
+        {
+          "number": "4",
+          "title": "Asas, melhorias e Renascimento",
+          "description": "Planeje seus gastos: quais melhorias de Asas desbloqueiam áreas mais distantes e quando vale a pena um Renascimento com seu multiplicador permanente de Dinheiro."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Códigos ativos",
+        "Melhores Asas",
+        "Guia de Renascimento"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Sua primeira sessão explicada, de ganhar Asas e chegar aos primeiros Ovos até chocar Animais e ganhar Dinheiro.",
+          "href": "/guide/wings-for-eggs-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Todos os códigos ativos de +1 Wings For Eggs com recompensas grátis e um passo a passo de resgate.",
+          "href": "/codes/wings-for-eggs-codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Ovos explicados",
+          "description": "Cada tipo de Ovo, a área onde ele aparece e quais Animais cada um pode chocar.",
+          "href": "/mechanics/wings-for-eggs-eggs"
+        },
+        {
+          "badge": "Popular",
+          "title": "Melhores Asas: Tier List",
+          "description": "Ranking de S a C de cada Asa por poder de voo, acesso a áreas e valor de melhoria.",
+          "href": "/items/wings-for-eggs-best-wings"
+        },
+        {
+          "badge": "Popular",
+          "title": "Animais e Pets",
+          "description": "Níveis de raridade, Dinheiro por segundo e quais chocadas valem a pena manter na sua Base.",
+          "href": "/mechanics/wings-for-eggs-pets"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia de Renascimento",
+          "description": "O que reinicia, o que é mantido e como o multiplicador permanente de Dinheiro acelera cada run.",
+          "href": "/mechanics/wings-for-eggs-rebirth"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de melhorias",
+          "description": "A melhor ordem de melhorias para Velocidade de voo, Resistência das Asas, renda dos Animais e capacidade da Base.",
+          "href": "/mechanics/wings-for-eggs-upgrades"
+        },
+        {
+          "badge": "Novo",
+          "title": "Guia da Missão Lunar",
+          "description": "Requisitos, janelas de tempo e a rota completa para concluir a Missão Lunar e resgatar suas recompensas.",
+          "href": "/quests/wings-for-eggs-moon"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é +1 Wings For Eggs?",
+      "paragraphs": [
+        "+1 Wings For Eggs é um tycoon de voo e coleção de ovos free-to-play no Roblox do desenvolvedor Crazay Art. Você decola, voa até ninhos e áreas distantes, rouba Ovos e os traz de volta à sua Base para chocar Animais que continuam gerando Dinheiro mesmo enquanto você está offline.",
+        "O progresso gira em torno de um ciclo simples: gaste Dinheiro em Asas mais fortes, Velocidade de voo e capacidade da Base para alcançar áreas mais distantes com Ovos mais raros e Animais melhores, e depois renasça para obter um multiplicador permanente de Dinheiro. Nossa wiki mapeia cada sistema com guias, tier lists e passo a passo."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Crazay Art"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Simulação / Tycoon"
+        },
+        {
+          "label": "Lançamento",
+          "value": "Setembro de 2026"
+        },
+        {
+          "label": "Visitas",
+          "value": "30M+"
+        },
+        {
+          "label": "Jogadores online",
+          "value": "8.1K+"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explore a wiki de +1 Wings For Eggs",
+      "description": "Tudo o que você precisa para progredir em +1 Wings For Eggs: códigos ativos, um tutorial completo para iniciantes, análises de Ovos e Animais, tier lists de Asas, ordem de desbloqueio de áreas, planejamento de Renascimento e prioridades de melhoria.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "+1 Wings For Eggs Códigos",
+          "description": "Todos os códigos ativos de +1 Wings For Eggs, as recompensas grátis por trás deles e um passo a passo claro de resgate, além de como diferenciar um código novo de um expirado.",
+          "href": "/codes/wings-for-eggs-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Códigos",
+              "detail": "Novos códigos aparecem em torno de atualizações, marcos e eventos da comunidade, então volte a conferir após cada patch."
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Abra o menu de códigos do jogo, cole o código exatamente como foi divulgado e confirme o aviso de recompensa."
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Espere Dinheiro grátis, Ovos grátis, giros e Asas cosméticas, com as cosméticas permanentes valendo mais a pena pegar primeiro."
+            },
+            {
+              "label": "Expirados",
+              "detail": "Os códigos são temporários e de uso único por conta, então resgate um ativo no momento em que encontrá-lo."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "+1 Wings For Eggs Guia para iniciantes",
+          "description": "Um passo a passo da primeira sessão em +1 Wings For Eggs: de onde vêm as Asas, como chegar aos primeiros Ovos, quando chocar Animais e como evitar travar no começo.",
+          "href": "/guide/wings-for-eggs-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Descubra de onde vêm as Asas: eventos, marcos, sequências e drops raros."
+            },
+            {
+              "label": "2",
+              "detail": "Ganhe uma reserva inicial de Asas antes de gastar em cosméticos."
+            },
+            {
+              "label": "3",
+              "detail": "Encontre a troca e anote o custo atual do Ovo antes de se comprometer."
+            },
+            {
+              "label": "4",
+              "detail": "Escolha um Ovo barato como meta em vez de espalhar seus recursos."
+            },
+            {
+              "label": "5",
+              "detail": "Converta, choque e verifique se o Animal paga de volta seu investimento."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvista o retorno em geração de Asas mais rápida e repita o ciclo."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "+1 Wings For Eggs Ovos",
+          "description": "Cada tipo de Ovo em +1 Wings For Eggs, as áreas onde aparece, sua raridade e o que cada um pode chocar, para você sempre saber qual Ovo buscar em seguida.",
+          "href": "/mechanics/wings-for-eggs-eggs",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Inicial",
+              "detail": "Ovos baratos e comuns que ensinam o ciclo de chocada com risco mínimo."
+            },
+            {
+              "label": "Missão",
+              "detail": "Ovos bloqueados por missão com Animais de nível médio confiáveis como recompensa."
+            },
+            {
+              "label": "Evento",
+              "detail": "Ovos limitados que somem quando o evento acaba, então pegue-os rápido."
+            },
+            {
+              "label": "Temporada",
+              "detail": "Ovos rotativos com valor de coleção de longo prazo e pools variáveis."
+            },
+            {
+              "label": "Premium",
+              "detail": "Ovos caros com os melhores Animais, melhores para quando você tiver renda estável."
+            },
+            {
+              "label": "Secreto",
+              "detail": "Ovos escondidos com Animais de alto nível e as menores chances de chocada."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "+1 Wings For Eggs Animais",
+          "description": "Uma análise completa dos Animais de +1 Wings For Eggs cobrindo níveis de raridade, geração de Dinheiro e quais chocadas valem a pena manter, vender ou usar no Renascimento.",
+          "href": "/mechanics/wings-for-eggs-pets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Comum",
+              "detail": "Chocadas fáceis que enchem sua Base e cobrem as primeiras necessidades de Dinheiro."
+            },
+            {
+              "label": "Incomum",
+              "detail": "Geradores um pouco melhores que fazem a ponte para os Animais de meio de jogo."
+            },
+            {
+              "label": "Raro",
+              "detail": "Bons produtores de Dinheiro e a base da maioria das ofertas de troca."
+            },
+            {
+              "label": "Épico",
+              "detail": "Onde o valor de verdade começa, com forte geração de Dinheiro offline."
+            },
+            {
+              "label": "Lendário",
+              "detail": "Os maiores geradores, que mantêm seu valor entre atualizações e Renascimentos."
+            },
+            {
+              "label": "Secreto",
+              "detail": "Animais de suprimento fixo de Ovos limitados, o mais raro dos raros."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "+1 Wings For Eggs Tier List de Asas",
+          "description": "Todas as Asas de +1 Wings For Eggs classificadas de S a C por poder de voo, acesso a áreas e valor de melhoria, para você saber qual par buscar em seguida.",
+          "href": "/mechanics/wings-for-eggs-wings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Asas de alto nível com o melhor voo e o maior acesso a áreas distantes."
+            },
+            {
+              "label": "A",
+              "detail": "Asas fortes e confiáveis que sustentam a maior parte do grind de meio de jogo."
+            },
+            {
+              "label": "B",
+              "detail": "Asas econômicas e sólidas que ainda superam qualquer coisa com que você começa."
+            },
+            {
+              "label": "C",
+              "detail": "Asas iniciais baratas de desbloquear, mas que ficam obsoletas rápido."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "+1 Wings For Eggs Áreas",
+          "description": "A ordem de desbloqueio de cada área de +1 Wings For Eggs, os Ovos e Animais encontrados em cada uma e as Asas e melhorias necessárias antes de voar mais longe.",
+          "href": "/guide/wings-for-eggs-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Base",
+              "detail": "Seu ninho inicial, onde os Ovos são chocados e o Dinheiro é guardado."
+            },
+            {
+              "label": "Arredores",
+              "detail": "Aparições próximas com Ovos comuns e os Animais mais fáceis de farmar."
+            },
+            {
+              "label": "Meio do mapa",
+              "detail": "Áreas disputadas com Ovos melhores e um fluxo constante de Dinheiro."
+            },
+            {
+              "label": "Ninhos distantes",
+              "detail": "Ninhos distantes que exigem Asas mais fortes para chegar a tempo."
+            },
+            {
+              "label": "Evento",
+              "detail": "Zonas temporárias que abrem durante atualizações e eventos sazonais."
+            },
+            {
+              "label": "Lua",
+              "detail": "Um destino de fim de jogo ligado à Missão Lunar e a recompensas raras."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "+1 Wings For Eggs Renascimento",
+          "description": "Como funciona o Renascimento em +1 Wings For Eggs: o que reinicia, o que é mantido e como o multiplicador permanente de Dinheiro torna cada run seguinte mais rápida.",
+          "href": "/mechanics/wings-for-eggs-rebirth",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Acumule Dinheiro e Asas suficientes para atingir o limite de Renascimento."
+            },
+            {
+              "label": "2",
+              "detail": "Verifique o portão e confirme antes o nível ou o número de Renascimentos exigido."
+            },
+            {
+              "label": "3",
+              "detail": "Ative o Renascimento e veja sua run atual reiniciar."
+            },
+            {
+              "label": "4",
+              "detail": "Resgate o multiplicador permanente de Dinheiro que vale para todas as runs futuras."
+            },
+            {
+              "label": "5",
+              "detail": "Reconstrua pela nova rota ideal, muito mais rápida que antes."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "+1 Wings For Eggs Melhorias",
+          "description": "A melhor ordem de melhorias de +1 Wings For Eggs cobrindo Velocidade de voo, Resistência das Asas, renda dos Animais e capacidade da Base, para cada moeda ir onde importa.",
+          "href": "/mechanics/wings-for-eggs-upgrades",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Velocidade",
+              "detail": "Melhorias de Velocidade de voo reduzem o tempo de viagem e aumentam os Ovos coletados por run."
+            },
+            {
+              "label": "Resistência",
+              "detail": "A Resistência das Asas permite ficar no ar tempo suficiente para alcançar ninhos distantes."
+            },
+            {
+              "label": "Renda",
+              "detail": "Melhorias de renda dos Animais aumentam o Dinheiro que seus Animais geram offline."
+            },
+            {
+              "label": "Capacidade",
+              "detail": "A capacidade da Base permite guardar mais Animais e Ovos antes de vender."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre +1 Wings For Eggs: Ovos, Animais, Asas, Dinheiro, códigos e Renascimento.",
+      "items": [
+        {
+          "question": "O que é +1 Wings For Eggs?",
+          "answer": "+1 Wings For Eggs é um tycoon de voo e coleção de ovos free-to-play no Roblox do desenvolvedor Crazay Art. Você voa até ninhos distantes, rouba Ovos, choca Animais, ganha Dinheiro, melhora suas Asas e renasça para alcançar áreas mais distantes."
+        },
+        {
+          "question": "Como consigo mais Ovos em +1 Wings For Eggs?",
+          "answer": "Voe para áreas mais distantes, pegue os Ovos que aparecem lá e leve-os de volta à sua Base antes que a Resistência das Asas acabe. Asas mais fortes e melhorias de Velocidade de voo permitem alcançar os Ovos mais raros que surgem nos ninhos distantes."
+        },
+        {
+          "question": "Quais Animais devo manter em +1 Wings For Eggs?",
+          "answer": "Mantenha os Animais de maior raridade que conseguir chocar, pois são os que mais geram Dinheiro e continuam pagando enquanto você está offline. Venda ou choque duplicados para financiar Ovos melhores e melhorias de Asas mais fortes."
+        },
+        {
+          "question": "Como funcionam os códigos em +1 Wings For Eggs?",
+          "answer": "Códigos são sequências curtas e temporárias que concedem recompensas grátis como Dinheiro, Ovos, giros ou Asas cosméticas. Resgate-os no menu de códigos do jogo assim que saírem, pois a maioria expira rápido e só funciona uma vez por conta."
+        },
+        {
+          "question": "Quando devo renascer em +1 Wings For Eggs?",
+          "answer": "Renasça quando sua renda de Dinheiro desacelerar e o multiplicador permanente claramente superar o que você ganharia ficando. O Renascimento reinicia sua run atual, mas concede um aumento duradouro de Dinheiro que torna cada run futura mais rápida."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar +1 Wings For Eggs?",
+      "description": "Do primeiro voo aos Renascimentos de fim de jogo, nossa wiki da comunidade cobre você com guias grátis e atualizados sobre ovos, asas, animais e Dinheiro.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guias de +1 Wings For Eggs",
+    "overviewDescription": "Comece com o guia para iniciantes de +1 Wings For Eggs e depois aprenda as rotas mais rápidas, dicas e truques, e como sair de novato para profissional."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de +1 Wings For Eggs",
+    "overviewDescription": "Todos os códigos ativos e expirados de +1 Wings For Eggs em um só lugar, com passos claros de como resgatar cada um para ovos e recompensas grátis."
+  },
+  "items": {
+    "overviewTitle": "Itens e Asas de +1 Wings For Eggs",
+    "overviewDescription": "Compare cada asa, pet e drop limitado de +1 Wings For Eggs, incluindo as melhores asas, os pets mais raros e como desbloquear as asas Phoenix e Anubis."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de +1 Wings For Eggs",
+    "overviewDescription": "Entenda os sistemas principais de +1 Wings For Eggs: ovos, asas, pets, melhorias, renascimento, roubo de ovos, segredos e progressão eterna."
+  },
+  "quests": {
+    "overviewTitle": "Missões de +1 Wings For Eggs",
+    "overviewDescription": "Passo a passo de cada missão de +1 Wings For Eggs, das missões de Anubis e das asas limitadas até ovos grátis, nível máximo e a área Lunar."
+  },
+  "controls": {
+    "overviewTitle": "Controles de +1 Wings For Eggs",
+    "overviewDescription": "A lista completa de controles de +1 Wings For Eggs para PC, celular e console, para você se mover, pular, interagir e roubar ovos sem adivinhar."
+  },
+  "updates": {
+    "overviewTitle": "Atualizações de +1 Wings For Eggs",
+    "overviewDescription": "As últimas notas de atualização de +1 Wings For Eggs, conteúdo novo, atualizações secretas e o roadmap de 2026, tudo atualizado em um só feed."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Conteúdo oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "+1 Wings For Eggs Wiki",
+    "about": "+1 Wings For Eggs Wiki é um hub de guias independente feito por fãs, cobrindo ovos, asas, animais, áreas, melhorias, renascimentos e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 +1 Wings For Eggs Wiki. Sem afiliação com a Crazay Art ou a Roblox.",
+    "description": "Tycoon de coleção de ovos free-to-play no Roblox. Voe, roube Ovos, choque Animais, ganhe Dinheiro e renasça.",
+    "playGame": "Jogar +1 Wings For Eggs",
+    "officialDiscord": "Comunidade Roblox",
+    "officialYoutube": "Vídeos de gameplay",
+    "vvBuilder": "Guias de Ovos e Asas",
+    "beginnerGuide": "Guia para iniciantes",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "itemsGuide": "Itens e Ovos",
+    "mechanicsGuide": "Mecânicas do jogo",
+    "updatesGuide": "Atualizações"
+  }
+}
