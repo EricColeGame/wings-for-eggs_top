@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Eggs, Wings, Animals, Areas & Rebirth Guides",
   description: "Your ultimate +1 Wings For Eggs wiki! Fly to distant nests, steal Eggs, hatch Animals, earn Cash, upgrade Wings, and Rebirth to reach farther areas.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://wings-for-eggs.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://wings-for-eggs.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@wings-for-eggs.top",
   gameUrl: "https://www.roblox.com/games/80242821185181/1-Wings-For-Eggs",
   heroVideoId: "9YAemHVbsNc", // Roblox +1 Wings For Eggs gameplay showcase
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/games/80242821185181/1-Wings-For-Eggs",
+    youtube: "https://www.youtube.com/watch?v=9YAemHVbsNc",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

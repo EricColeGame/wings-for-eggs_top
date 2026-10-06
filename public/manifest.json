@@ -22,7 +22,7 @@
   ],
   "shortcuts": [
     { "name": "Beginner Guide", "url": "/en/guide" },
-    { "name": "Eggs", "url": "/en/items" },
+    { "name": "Eggs", "url": "/en/guide" },
     { "name": "Codes", "url": "/en/codes" }
   ]
 }
